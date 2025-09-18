@@ -129,7 +129,7 @@ After you have selected all of your preferences, your machine will now be ready 
 
 *How did you know how much RAM and how many CPU cores to select for your machine?*
 
-Located on the Microsoft site, the same place that we downloaded our ISO from, there is a section called 'Windows 11 device specifications'. Here it will tell you the minimum RAM and CPU cores required to run the system.
+Located on the Microsoft site, the same place that we downloaded our ISO from, there is a section called 'Windows 11 device specifications'. Here it will tell you the minimum RAM and CPU cores required to run the system. I found that this machine requires at least 4GB of RAM, and at least 2 CPU cores, so I selected this for my virtual machine.
 
 *The windows logo is just displaying after I have run the install, what should I do?*
 
